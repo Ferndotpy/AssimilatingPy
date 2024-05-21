@@ -1,4 +1,4 @@
-# Póquer Game
+# CS50P's Final Project - Póquer Game
 ### Video Demo: https://www.youtube.com/watch?v=wJSSXFlwmxA
 ### What is this project and why?
 #### This program was made to represent a game of poker, mainly focused on the variant Texas hold'em. It tries to replicate most of the rules but is way more simplified, not all actions were included: no BID action and no FOLD action. The purpose of picking this topic is the range of options that opens, I mean if I'd like to learn about statistics I'd start from this game and try to add it, this also applies to learn about GUIs and ML.
