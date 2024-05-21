@@ -1,5 +1,7 @@
 # CS50P's Final Project - Póquer Game
+#### This repo represents all the knowledge gained and put in place through the course CS50P by Harvard.
 ### Video Demo: https://www.youtube.com/watch?v=wJSSXFlwmxA
+### CS50P certificate: https://certificates.cs50.io/6329b323-052f-4d3a-b1eb-59c9b8decb9b.pdf?size=letter
 ### What is this project and why?
 #### This program was made to represent a game of poker, mainly focused on the variant Texas hold'em. It tries to replicate most of the rules but is way more simplified, not all actions were included: no BID action and no FOLD action. The purpose of picking this topic is the range of options that opens, I mean if I'd like to learn about statistics I'd start from this game and try to add it, this also applies to learn about GUIs and ML.
 ### What does this program actually do?
