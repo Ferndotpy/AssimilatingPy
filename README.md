@@ -1,5 +1,5 @@
 # CS50P's Final Project - Póquer Game
-#### This repo represents all the knowledge gained and put in place through the course CS50P by Harvard.
+#### This repo represents all the knowledge gained and applied throughout the CS50P course by Harvard.
 ### Video Demo: https://www.youtube.com/watch?v=wJSSXFlwmxA
 ### CS50P certificate: https://certificates.cs50.io/6329b323-052f-4d3a-b1eb-59c9b8decb9b.pdf?size=letter
 ### What is this project and why?
